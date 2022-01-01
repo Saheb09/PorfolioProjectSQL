@@ -1,3 +1,7 @@
+/* Covid 19 Data Exploration 24-02-2020 to 29-12-2021
+Skills gained and utilized:
+Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
 select * 
 from PortfolioSQL..CovidDeaths
 order by 3,4
